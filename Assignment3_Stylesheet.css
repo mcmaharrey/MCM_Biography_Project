@@ -1,0 +1,29 @@
+div {
+    border: 5px outset black;
+    background-color: lightgrey;
+    text-align: center;
+    text-decoration: underline;
+    color:black;
+    padding-top: 20px;
+}
+
+body {
+    margin: 50px;
+    font-size: larger;
+    font-family: sans-serif;
+    background-image: url(backgroundphoto.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(101, 225, 241);
+
+}
+
+img {
+    float: center;
+}
+
+h1,h2,h3 {
+
+    color:black;
+
+}
